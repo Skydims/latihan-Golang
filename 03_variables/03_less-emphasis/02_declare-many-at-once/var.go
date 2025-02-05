@@ -7,7 +7,7 @@ func main() {
 	var a, b, c int
 	a = 1
 
-	message = "Hello World!"
+	message = "emang boleh "
 
 	fmt.Println(message, a, b, c)
 }
