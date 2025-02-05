@@ -4,8 +4,8 @@ import "fmt"
 
 func main() {
 
-	// you can only do this inside a func
-	message := "Hello World!"
+
+	message := "sasukee"
 	a, b, c := 1, false, 3
 	d := 4
 	e := true
