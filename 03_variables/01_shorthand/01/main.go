@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	a := 10
+	a := 20
 	b := "golang"
 	c := 4.17
 	d := true
