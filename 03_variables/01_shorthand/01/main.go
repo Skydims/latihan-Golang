@@ -10,7 +10,7 @@ func main() {
 	d := true
 	e := "p bero"
 	f := `apa kamu suka sarah`
-	g := 'M'
+	g := 'S'
 
 	fmt.Printf("%v \n", a)
 	fmt.Printf("%v \n", b)
