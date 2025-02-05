@@ -9,7 +9,7 @@ func main() {
 	c := 4.17
 	d := true
 	e := "p bero"
-	f := `Do you like my hat?`
+	f := `apa kamu suka sarah`
 	g := 'M'
 
 	fmt.Printf("%v \n", a)
