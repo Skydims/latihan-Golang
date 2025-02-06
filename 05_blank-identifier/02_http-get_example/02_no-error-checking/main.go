@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	res, _ := http.Get("http://www.geekwiseacademy.com/")
+	res, _ := http.Get("https://skydims.github.io/KALATAWA/")
 	page, _ := ioutil.ReadAll(res.Body)
 	res.Body.Close()
 	fmt.Printf("%s", page)
