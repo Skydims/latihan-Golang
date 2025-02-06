@@ -4,7 +4,7 @@ import "fmt"
 
 const (
 	pi       = 3.14
-	language = "Go"
+	language = "Golang"
 )
 
 func main() {
