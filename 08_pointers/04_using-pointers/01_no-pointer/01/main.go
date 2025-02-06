@@ -7,7 +7,7 @@ func zero(z int) {
 }
 
 func main() {
-	x := 5
+	x := 4
 	zero(x)
 	fmt.Println(x) // x is still 5
 }
