@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	a := 43
+	a := 24
 
 	fmt.Println(a)  // 43
 	fmt.Println(&a) // 0x20818a220
