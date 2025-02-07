@@ -4,12 +4,12 @@ import "fmt"
 
 func main() {
 	switch "Mhi" {
-	case "Daniel":
-		fmt.Println("Wassup Daniel")
-	case "Medhi":
-		fmt.Println("Wassup Medhi")
-	case "Jenny":
-		fmt.Println("Wassup Jenny")
+	case "Dimas":
+		fmt.Println("Wassup Dimas")
+	case "Samid":
+		fmt.Println("Wassup Samid")
+	case "Mimin":
+		fmt.Println("Wassup Mimin")
 	default:
 		fmt.Println("Have you no friends?")
 	}
