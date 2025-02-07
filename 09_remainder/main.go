@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	x := 13 % 3
+	x := 24 % 4
 	fmt.Println(x)
 	if x == 1 {
 		fmt.Println("Odd")
