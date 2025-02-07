@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	myFriendsName := "Mar"
+	myFriendsName := "Dim"
 
 	switch {
 	case len(myFriendsName) == 2:
