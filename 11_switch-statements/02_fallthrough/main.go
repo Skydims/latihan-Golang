@@ -4,19 +4,19 @@ import "fmt"
 
 func main() {
 	switch "Marcus" {
-	case "Tim":
-		fmt.Println("Wassup Tim")
-	case "Jenny":
-		fmt.Println("Wassup Jenny")
-	case "Marcus":
-		fmt.Println("Wassup Marcus")
+	case "DIMAS":
+		fmt.Println("Wassup DIMAS")
+	case "SAMID":
+		fmt.Println("Wassup SAMID")
+	case "MIMIN":
+		fmt.Println("Wassup MIMIN")
 		fallthrough
-	case "Medhi":
-		fmt.Println("Wassup Medhi")
+	case "SARAH":
+		fmt.Println("Wassup SARAH")
 		fallthrough
-	case "Julian":
+	case "JULIAN":
 		fmt.Println("Wassup Julian")
-	case "Sushant":
-		fmt.Println("Wassup Sushant")
+	case "SARI":
+		fmt.Println("Wassup SARI")
 	}
 }
