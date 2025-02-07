@@ -6,7 +6,7 @@ func main() {
 	i := 0
 	for {
 		fmt.Println(i)
-		if i >= 10 {
+		if i >= 12 {
 			break
 		}
 		i++
