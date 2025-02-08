@@ -5,9 +5,9 @@ import "fmt"
 func main() {
 
 	if false {
-		fmt.Println("first print statement")
+		fmt.Println("first statement")
 	} else {
-		fmt.Println("second print statement")
+		fmt.Println("second statement")
 	}
 
 }
