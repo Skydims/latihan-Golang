@@ -5,13 +5,13 @@ import "fmt"
 func main() {
 
 	if false {
-		fmt.Println("first print statement")
+		fmt.Println("first statement")
 	} else if false {
-		fmt.Println("second print statement")
+		fmt.Println("second statement")
 	} else if true {
-		fmt.Println("ahahaha print statement")
+		fmt.Println(" statement")
 	} else {
-		fmt.Println("third print statement")
+		fmt.Println("third tatement")
 	}
 
 }
