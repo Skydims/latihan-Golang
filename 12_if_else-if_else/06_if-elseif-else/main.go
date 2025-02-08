@@ -5,11 +5,11 @@ import "fmt"
 func main() {
 
 	if false {
-		fmt.Println("first print statement")
+		fmt.Println("first statement")
 	} else if true {
-		fmt.Println("second print statement")
+		fmt.Println("second statement")
 	} else {
-		fmt.Println("third print statement")
+		fmt.Println("third statement")
 	}
 
 }
