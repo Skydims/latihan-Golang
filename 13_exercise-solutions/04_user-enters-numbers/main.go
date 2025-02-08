@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var numOne int
 	var numTwo int
-	fmt.Print("Please enter a large number: ")
+	fmt.Print("MASUKAN ANGKA: ")
 	fmt.Scan(&numOne)
 	fmt.Print("Please enter a smaller number: ")
 	fmt.Scan(&numTwo)
