@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(greet("Jane ", "Doe"))
+	fmt.Println(greet("Dimas ", "sarah"))
 }
 
 func greet(fname string, lname string) (s string) {
