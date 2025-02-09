@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	greet("Jane")
-	greet("John")
+	greet("dimas")
+	greet("sarah")
 }
 
 func greet(name string) {
