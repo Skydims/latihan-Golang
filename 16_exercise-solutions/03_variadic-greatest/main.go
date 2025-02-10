@@ -13,7 +13,7 @@ func max(numbers ...int) int {
 }
 
 func main() {
-	greatest := max(4, 7, 12, 123, 543, 24, 45, 53, 125)
+	greatest := max(4, 7, 12, 123, 543, 24, 45, 539, 125)
 	fmt.Println(greatest)
 }
 
