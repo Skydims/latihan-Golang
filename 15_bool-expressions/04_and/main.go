@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	if true && false {
-		fmt.Println("This did not run")
+		fmt.Println("This not run")
 	}
 
 }
