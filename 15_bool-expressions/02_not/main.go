@@ -9,7 +9,7 @@ func main() {
 	}
 
 	if !false {
-		fmt.Println("This ran")
+		fmt.Println("This run")
 	}
 
 }
