@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var x [58]string
+	var x [18]string
 
 	for i := 24; i <= 123; i++ {
 		x[i-24] = string(i)
