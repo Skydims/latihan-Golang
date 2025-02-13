@@ -7,7 +7,7 @@ func main() {
 
 	fmt.Println(len(x))
 	fmt.Println(x[42])
-	for i := 0; i < 256; i++ {
+	for i := 0; i < 241; i++ {
 		x[i] = i
 	}
 	for i, v := range x {
