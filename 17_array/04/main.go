@@ -6,7 +6,7 @@ func main() {
 	var x [256]byte
 
 	fmt.Println(len(x))
-	fmt.Println(x[42])
+	fmt.Println(x[24])
 	for i := 0; i < 256; i++ {
 		x[i] = byte(i)
 	}
