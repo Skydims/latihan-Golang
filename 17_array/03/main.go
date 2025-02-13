@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var x [256]int
+	var x [241]int
 
 	fmt.Println(len(x))
 	fmt.Println(x[42])
