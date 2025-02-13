@@ -12,7 +12,7 @@ func main() {
 	}
 	for i, v := range x {
 		fmt.Printf("%v - %T - %b\n", v, v, v)
-		if i > 50 {
+		if i > 45 {
 			break
 		}
 	}
