@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var x [58]string
 
-	for i := 24; i <= 122; i++ {
+	for i := 24; i <= 123; i++ {
 		x[i-65] = string(i)
 	}
 
