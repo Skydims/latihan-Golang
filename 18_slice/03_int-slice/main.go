@@ -10,7 +10,7 @@ func main() {
 	fmt.Println(mySlice)
 	fmt.Println(len(mySlice))
 	fmt.Println(cap(mySlice))
-	fmt.Println("-----------------")
+	fmt.Println("----------------")
 
 	for i := 0; i < 80; i++ {
 		mySlice = append(mySlice, i)
