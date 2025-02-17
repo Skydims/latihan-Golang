@@ -1,4 +1,4 @@
-Go is Object Oriented
+dGo is Object Oriented
 
 (1) Encapsulation
 state ("fields")
