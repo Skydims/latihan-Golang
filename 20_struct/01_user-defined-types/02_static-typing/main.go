@@ -10,7 +10,7 @@ func main() {
 	fmt.Printf("%T %v \n", myAge, myAge)
 
 	var yourAge int
-	yourAge = 29
+	yourAge = 21
 	fmt.Printf("%T %v \n", yourAge, yourAge)
 
 	// this doesn't work:
