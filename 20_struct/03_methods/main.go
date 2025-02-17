@@ -14,7 +14,7 @@ func (p person) fullName() string {
 
 func main() {
 	p1 := person{"Dimas", "Adi", 20}
-	p2 := person{"Sarah", "Moneypenny", 18}
+	p2 := person{"Sarah", "julian sari", 21}
 	fmt.Println(p1.fullName())
 	fmt.Println(p2.fullName())
 }
