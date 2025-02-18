@@ -29,7 +29,7 @@ func main() {
 
 	p2 := doubleZero{
 		person: person{
-			First: "Miss",
+			First: "Sarah",
 			Last:  "MoneyPenny",
 			Age:   19,
 		},
