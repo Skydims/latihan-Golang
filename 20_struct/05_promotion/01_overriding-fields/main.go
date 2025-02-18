@@ -23,7 +23,7 @@ func main() {
 			Last:  "ADI",
 			Age:   20,
 		},
-		First:         "Double Zero Seven",
+		First:         "Double Zero ",
 		LicenseToKill: true,
 	}
 
