@@ -15,7 +15,7 @@ type doubleZero struct {
 }
 
 func (p person) Greeting() {
-	fmt.Println("I'm just a regular person.")
+	fmt.Println("aku adalah cucu ultramen.")
 }
 
 func (dz doubleZero) Greeting() {
