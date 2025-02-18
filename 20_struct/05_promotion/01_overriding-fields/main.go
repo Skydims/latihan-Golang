@@ -30,8 +30,8 @@ func main() {
 	p2 := doubleZero{
 		person: person{
 			First: "Sarah",
-			Last:  "MoneyPenny",
-			Age:   19,
+			Last:  "Julian Sari",
+			Age:   21,
 		},
 		First:         "If looks could kill",
 		LicenseToKill: false,
