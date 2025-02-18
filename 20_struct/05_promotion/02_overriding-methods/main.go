@@ -30,7 +30,7 @@ func main() {
 
 	p2 := doubleZero{
 		person: person{
-			Name: "James Bond",
+			Name: "Sarah julian Sari",
 			Age:  23,
 		},
 		LicenseToKill: true,
