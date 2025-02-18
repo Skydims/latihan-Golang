@@ -25,7 +25,7 @@ func (dz doubleZero) Greeting() {
 func main() {
 	p1 := person{
 		Name: "Dimas adi saputra",
-		Age:  44,
+		Age:  20,
 	}
 
 	p2 := doubleZero{
