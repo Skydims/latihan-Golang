@@ -19,7 +19,7 @@ type doubleZero struct {
 func main() {
 	p1 := doubleZero{
 		person: person{
-			First: "James",
+			First: "DImas",
 			Last:  "Bond",
 			Age:   20,
 		},
