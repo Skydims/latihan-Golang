@@ -19,7 +19,7 @@ func (p person) Greeting() {
 }
 
 func (dz doubleZero) Greeting() {
-	fmt.Println("Miss Moneypenny, so good to see you.")
+	fmt.Println("apan tuh man.")
 }
 
 func main() {
