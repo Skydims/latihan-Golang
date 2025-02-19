@@ -20,7 +20,7 @@ func info(z shape) {
 }
 
 func main() {
-	s := square{10}
+	s := square{12}
 	fmt.Printf("%T\n",s)
 	info(s)
 }
