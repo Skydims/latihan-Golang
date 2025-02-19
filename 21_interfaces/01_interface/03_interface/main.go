@@ -33,7 +33,7 @@ func info(z shape) {
 }
 
 func main() {
-	s := square{10}
+	s := square{12}
 	c := circle{5}
 	info(s)
 	info(c)
