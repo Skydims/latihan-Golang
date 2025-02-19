@@ -11,6 +11,6 @@ func (z square) area() float64 {
 }
 
 func main() {
-	s := square{10}
+	s := square{12}
 	fmt.Println("Area: ", s.area())
 }
