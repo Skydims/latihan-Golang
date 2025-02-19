@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	s := []string{"Dimas", "ADI", "Sarah", "Jenny"}
+	s := []string{"Dimas", "ADI", "Sarah", "Julian sari"}
 	fmt.Println(s)
 	//	sort.StringSlice(s).Sort()
 	sort.Sort(sort.StringSlice(s))
