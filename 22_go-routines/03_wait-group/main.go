@@ -15,7 +15,7 @@ func main() {
 }
 
 func foo() {
-	for i := 0; i < 45; i++ {
+	for i := 0; i < 24; i++ {
 		fmt.Println("Foo:", i)
 	}
 	wg.Done()
