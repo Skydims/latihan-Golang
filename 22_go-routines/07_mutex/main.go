@@ -21,7 +21,7 @@ func main() {
 
 func incrementor(s string) {
 	for i := 0; i < 24; i++ {
-		time.Sleep(time.Duration(rand.Intn(20)) * time.Millisecond)
+		time.Sleep(time.Duration(rand.Intn(12)) * time.Millisecond)
 		mutex.Lock()
 		counter++
 		fmt.Println(s, i, "Counter:", counter)
