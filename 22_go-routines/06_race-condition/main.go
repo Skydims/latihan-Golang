@@ -15,7 +15,7 @@ func main() {
 	go incrementor("Foo:")
 	go incrementor("Bar:")
 	wg.Wait()
-	fmt.Println("Final Counter:", counter)
+	fmt.Println("Final :", counter)
 }
 
 func incrementor(s string) {
