@@ -22,7 +22,7 @@ func main() {
 
 func foo() {
 	for i := 0; i < 24; i++ {
-		fmt.Println("Foo:", i)
+		fmt.Println("doo:", i)
 		time.Sleep(3 * time.Millisecond)
 	}
 	wg.Done()
