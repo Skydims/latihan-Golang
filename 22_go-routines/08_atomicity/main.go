@@ -14,7 +14,7 @@ var counter int64
 func main() {
 	wg.Add(2)
 	go incrementor("Foo:")
-	go incrementor("Bar:")
+	go incrementor("dar:")
 	wg.Wait()
 	fmt.Println("Final :", counter)
 }
