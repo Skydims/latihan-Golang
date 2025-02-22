@@ -7,7 +7,7 @@ import (
 func main() {
 	c := make(chan int)
 	go func() {
-		c <- 1
+		c <- 2
 	}()
 	fmt.Println(<-c)
 }
