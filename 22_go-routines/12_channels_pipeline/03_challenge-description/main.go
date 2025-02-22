@@ -15,8 +15,8 @@ func factorial(n int) chan int {
 	out := make(chan int)
 	go func() {
 		total := 1
-		for i := n; i > 0; i-- {
-			total *= i
+		for j := n; j > 0; j-- {
+			total *= j
 		}
 		out <- total
 		close(out)
