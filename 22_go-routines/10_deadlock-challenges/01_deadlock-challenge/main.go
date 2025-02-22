@@ -6,7 +6,7 @@ import (
 
 func main() {
 	c := make(chan int)
-	c <- 1
+	c <- 2
 	fmt.Println(<-c)
 }
 
