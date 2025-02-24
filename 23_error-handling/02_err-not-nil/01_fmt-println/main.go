@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-func main() {
+func main() {o
 	_, err := os.Open("no-file.txt")
 	if err != nil {
 		fmt.Println("err happened", err)
