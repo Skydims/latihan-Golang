@@ -9,8 +9,8 @@ func main() {
 }
 
 func evalInt(n int) string {
-	if n > 10 {
-		return fmt.Sprint("x is greater than 10")
+	if n > 20 {
+		return fmt.Sprint("x is greater than 20")
 	} else {
 		return fmt.Sprint("x is less than 10")
 	}
