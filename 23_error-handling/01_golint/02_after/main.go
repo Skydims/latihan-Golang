@@ -14,5 +14,5 @@ func evalInt(n int) string {
 		return fmt.Sprint("x is greater than 20")
 	}
 
-	return fmt.Sprint("x is less than 10")
+	return fmt.Sprint("x is less than 20")
 }
