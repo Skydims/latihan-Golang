@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 
-	message := "sasukee"
+	message := "dimas"
 	a, b, c := 1, false, 3
 	d := 4
 	e := true
