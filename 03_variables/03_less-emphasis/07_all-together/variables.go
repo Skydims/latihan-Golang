@@ -10,7 +10,7 @@ func main() {
 
 	d = "stored in d" // declaration above; assignment here; package scope
 	var e = 42        // function scope - subsequent variables have func scope:
-	f := 43
+	f := 24
 	g := "stored in g"
 	h, i := "stored in h", "stored in i"
 	j, k, l, m := 44.7, true, false, 'm' // single quotes
