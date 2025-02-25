@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 	var message string
-	message = "wasalamualaiku dunia."
+	message = "wasalamualaikum dunia."
 	fmt.Println(message)
 }
