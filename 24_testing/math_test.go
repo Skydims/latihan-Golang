@@ -20,7 +20,7 @@ func BenchmarkAdder(b *testing.B) {
 }
 
 func ExampleAdder() {
-	fmt.Println(Adder(4, 7))
+	fmt.Println(Adder(5, 7))
 	// Output:
 	// 11
 }
