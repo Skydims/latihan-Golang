@@ -10,7 +10,7 @@ func main() {
 			continue
 		}
 		fmt.Println(i)
-		if i >= 24 {
+		if i >= 21 {
 			break
 		}
 	}
