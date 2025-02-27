@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-var ErrNorgateMath = errors.New("norgate math: square root of negative number")
+var ErrNorgateMath = errors.New(" math: square root of negative number")
 
 func main() {
 	fmt.Printf("%T\n", ErrNorgateMath)
