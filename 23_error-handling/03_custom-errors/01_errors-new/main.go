@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	_, err := Sqrt(-10)
+	_, err := Sqrt(-12)
 	if err != nil {
 		log.Fatalln(err)
 	}
