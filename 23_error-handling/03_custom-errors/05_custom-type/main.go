@@ -15,7 +15,7 @@ func (n *NorgateMathError) Error() string {
 }
 
 func main() {
-	_, err := Sqrt(-10.23)
+	_, err := Sqrt(-10.24)
 	if err != nil {
 		log.Println(err)
 	}
