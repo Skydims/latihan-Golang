@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println(stringutil.Reverse("halo bero"))
+	fmt.Println(stringutil.Reverse("halo beros"))
 	fmt.Println(stringutil.MyName)
 	fmt.Println(winniepooh.BearName)
 }
