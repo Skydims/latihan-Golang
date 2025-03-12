@@ -1,5 +1,5 @@
 package vis
 
 // MyName is exported because it starts with a capital letter
-var MyName = "Dimas adi"
+var MyName = "Dimas adi saputra"
 var yourName = "Future Rock Star Programmer"
