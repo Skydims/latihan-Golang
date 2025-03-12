@@ -7,7 +7,7 @@ func max(x int) int {
 }
 
 func main() {
-	max := max(4)
+	max := max(7)
 	fmt.Println(max) // max is now the result, not the function
 }
 
