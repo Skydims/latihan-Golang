@@ -7,7 +7,7 @@ func main() {
 	fmt.Println(x)
 	{
 		fmt.Println(x)
-		y := "The credit belongs with the one who is in the ring."
+		y := "aduh "
 		fmt.Println(y)
 	}
 	// fmt.Println(y) // outside scope of y
