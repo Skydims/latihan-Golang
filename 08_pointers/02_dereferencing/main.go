@@ -6,7 +6,7 @@ func main() {
 
 	a := 24
 
-	fmt.Println(a)  // 43
+	fmt.Println(a)  // 24
 	fmt.Println(&a) // 0x20818a220
 
 	var b = &a
