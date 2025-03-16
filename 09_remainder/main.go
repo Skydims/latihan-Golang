@@ -11,7 +11,7 @@ func main() {
 		fmt.Println("Even")
 	}
 
-	for i := 1; i < 70; i++ {
+	for i := 1; i < 24; i++ {
 		if i%2 == 1 {
 			fmt.Println("Odd")
 		} else {
