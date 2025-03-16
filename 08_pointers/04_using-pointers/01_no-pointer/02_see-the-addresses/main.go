@@ -13,5 +13,5 @@ func main() {
 	fmt.Printf("%p\n", &x) // address in main
 	fmt.Println(&x)        // address in main
 	zero(x)
-	fmt.Println(x) // x is still 5
+	fmt.Println(x) // x is still 4
 }
