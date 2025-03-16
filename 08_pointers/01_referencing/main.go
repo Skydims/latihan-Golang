@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	a := 24
+	a := 20
 
 	fmt.Println(a)
 	fmt.Println(&a)
